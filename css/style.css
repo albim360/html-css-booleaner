@@ -17,3 +17,11 @@ header {
 #the-booleaner {
     color: rgb(110, 149, 222);
 }
+
+.desc-foto {
+    font-size: 70%;
+}
+
+.giallo {
+    background-color: yellow;
+}
