@@ -25,3 +25,8 @@ header {
 .giallo {
     background-color: yellow;
 }
+
+.aqua {
+    background-color: rgba(6, 178, 236, 0.863);
+    color: white;
+}
