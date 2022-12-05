@@ -39,6 +39,18 @@ table {
     border-collapse: collapse;
 }
 
-.imgfoot{
-    width: 20%;
+.imgfoot1 {
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+}
+
+.imgfoot2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    color: white;
 }
