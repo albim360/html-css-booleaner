@@ -30,3 +30,15 @@ header {
     background-color: rgba(6, 178, 236, 0.863);
     color: white;
 }
+
+.lightblue {
+    background-color: lightblue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.imgfoot{
+    width: 20%;
+}
