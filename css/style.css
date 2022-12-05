@@ -1,0 +1,19 @@
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(24, 185, 210);
+}
+
+.container {
+    width: 20%;
+}
+
+.booleaner, .testo-piccolo {
+    color: gray;
+}
+.testo-piccolo{
+   font-size: 75%;
+}
+
+#the-booleaner {
+    color: rgb(110, 149, 222);
+}
